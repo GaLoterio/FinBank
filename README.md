@@ -1,6 +1,6 @@
 # 🏦 FinBank API
 
-> API REST de sistema bancário digital desenvolvida com Java e Spring Boot, inspirada em fintechs como o C6 Bank.
+> API REST de sistema bancário digital desenvolvida com Java e Spring Boot, inspirada em fintechs.
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.6-brightgreen?style=flat-square&logo=springboot)
